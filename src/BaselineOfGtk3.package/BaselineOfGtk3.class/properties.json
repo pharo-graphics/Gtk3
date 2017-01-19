@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfGtk3",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGtk3",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
