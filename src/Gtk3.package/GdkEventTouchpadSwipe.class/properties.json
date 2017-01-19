@@ -1,0 +1,14 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:50",
+	"instvars" : [
+		 ],
+	"name" : "GdkEventTouchpadSwipe",
+	"pools" : [
+		 ],
+	"super" : "GdkMappedEvent",
+	"type" : "normal" }

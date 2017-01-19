@@ -1,0 +1,1 @@
+https://developer.gnome.org/glib/stable/glib-The-Main-Event-Loop.html#GMainContext

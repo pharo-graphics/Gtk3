@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GDK_VISIBILITY_FULLY_OBSCURED",
+		"GDK_VISIBILITY_PARTIAL",
+		"GDK_VISIBILITY_UNOBSCURED" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:04",
+	"instvars" : [
+		 ],
+	"name" : "GdkVisibilityState",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

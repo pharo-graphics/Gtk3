@@ -1,0 +1,4 @@
+accessing structure variables
+time: anObject
+	"This method was automatically generated"
+	handle unsignedLongAt: 13 put: anObject

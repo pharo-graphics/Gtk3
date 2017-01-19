@@ -1,0 +1,22 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GDK_CROSSING_DEVICE_SWITCH",
+		"GDK_CROSSING_GRAB",
+		"GDK_CROSSING_GTK_GRAB",
+		"GDK_CROSSING_GTK_UNGRAB",
+		"GDK_CROSSING_NORMAL",
+		"GDK_CROSSING_STATE_CHANGED",
+		"GDK_CROSSING_TOUCH_BEGIN",
+		"GDK_CROSSING_TOUCH_END",
+		"GDK_CROSSING_UNGRAB" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:00",
+	"instvars" : [
+		 ],
+	"name" : "GdkCrossingMode",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

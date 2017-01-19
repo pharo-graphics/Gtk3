@@ -1,0 +1,21 @@
+{
+	"category" : "Gtk3-GLib",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"G_APPLICATION_CAN_OVERRIDE_APP_ID",
+		"G_APPLICATION_FLAGS_NONE",
+		"G_APPLICATION_HANDLES_COMMAND_LINE",
+		"G_APPLICATION_HANDLES_OPEN",
+		"G_APPLICATION_IS_LAUNCHER",
+		"G_APPLICATION_IS_SERVICE",
+		"G_APPLICATION_NON_UNIQUE",
+		"G_APPLICATION_SEND_ENVIRONMENT" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:31",
+	"instvars" : [
+		 ],
+	"name" : "GApplicationFlags",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

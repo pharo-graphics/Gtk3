@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TGtkLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:04",
+	"instvars" : [
+		 ],
+	"name" : "GdkRectangle",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalStructure",
+	"traitcomposition" : "TGtkLibrary",
+	"type" : "normal" }

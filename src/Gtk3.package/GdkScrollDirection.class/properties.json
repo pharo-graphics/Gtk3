@@ -1,0 +1,18 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GDK_SCROLL_DOWN",
+		"GDK_SCROLL_LEFT",
+		"GDK_SCROLL_RIGHT",
+		"GDK_SCROLL_SMOOTH",
+		"GDK_SCROLL_UP" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:04",
+	"instvars" : [
+		 ],
+	"name" : "GdkScrollDirection",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

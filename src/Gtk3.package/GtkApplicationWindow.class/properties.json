@@ -1,0 +1,14 @@
+{
+	"category" : "Gtk3-Gtk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:29",
+	"instvars" : [
+		 ],
+	"name" : "GtkApplicationWindow",
+	"pools" : [
+		 ],
+	"super" : "GtkWindow",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"GDK_CROSSING_DEVICE_SWITCH" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_GRAB" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_GTK_GRAB" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_GTK_UNGRAB" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_NORMAL" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_STATE_CHANGED" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_TOUCH_BEGIN" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_TOUCH_END" : "GlennCavarle 12/11/2016 20:33",
+		"GDK_CROSSING_UNGRAB" : "GlennCavarle 12/11/2016 20:33",
+		"enumDecl" : "GlennCavarle 12/11/2016 20:18",
+		"initialize" : "GlennCavarle 12/11/2016 20:33" },
+	"instance" : {
+		 } }

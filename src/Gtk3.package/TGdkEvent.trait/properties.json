@@ -1,0 +1,6 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classtraitcomposition" : "TGtkLibrary classTrait",
+	"commentStamp" : "",
+	"name" : "TGdkEvent",
+	"traitcomposition" : "TGtkLibrary" }

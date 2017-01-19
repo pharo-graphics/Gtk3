@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TGtkLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Gdk",
+	"pools" : [
+		"GTypes" ],
+	"super" : "Object",
+	"traitcomposition" : "TGtkLibrary",
+	"type" : "normal" }

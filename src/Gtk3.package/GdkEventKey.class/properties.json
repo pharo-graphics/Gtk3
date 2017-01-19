@@ -1,0 +1,14 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:49",
+	"instvars" : [
+		 ],
+	"name" : "GdkEventKey",
+	"pools" : [
+		 ],
+	"super" : "GdkMappedEvent",
+	"type" : "normal" }

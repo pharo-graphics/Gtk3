@@ -1,0 +1,22 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GDK_WINDOW_STATE_ABOVE",
+		"GDK_WINDOW_STATE_BELOW",
+		"GDK_WINDOW_STATE_FOCUSED",
+		"GDK_WINDOW_STATE_FULLSCREEN",
+		"GDK_WINDOW_STATE_ICONIFIED",
+		"GDK_WINDOW_STATE_MAXIMIZED",
+		"GDK_WINDOW_STATE_STICKY",
+		"GDK_WINDOW_STATE_TILED",
+		"GDK_WINDOW_STATE_WITHDRAWN" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:05",
+	"instvars" : [
+		 ],
+	"name" : "GdkWindowState",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

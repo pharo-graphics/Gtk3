@@ -1,0 +1,15 @@
+{
+	"category" : "Gtk3-Gtk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GTK_WINDOW_POPUP",
+		"GTK_WINDOW_TOPLEVEL" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:44",
+	"instvars" : [
+		 ],
+	"name" : "GtkWindowType",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getPixBuf" : "GlennCavarle 12/27/2016 16:32",
+		"primCairoCreate" : "GlennCavarle 12/29/2016 21:15",
+		"primCreateSimilarImageSurfaceFormat:w:h:scale:" : "GlennCavarle 12/27/2016 16:31",
+		"primGetCursor" : "GlennCavarle 12/27/2016 16:25",
+		"primGetHeight" : "GlennCavarle 12/27/2016 16:32",
+		"primGetPositionX:y:" : "GlennCavarle 12/27/2016 16:25",
+		"primGetScaleFactor" : "GlennCavarle 12/27/2016 16:23",
+		"primGetWidth" : "GlennCavarle 12/27/2016 16:32",
+		"primInvalidateRect:" : "GlennCavarle 12/27/2016 16:27",
+		"primSetCursor:" : "GlennCavarle 12/27/2016 16:28" } }

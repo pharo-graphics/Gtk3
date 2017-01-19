@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TGdkEvent classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:55",
+	"instvars" : [
+		 ],
+	"name" : "GdkEvent",
+	"pools" : [
+		"GTypes" ],
+	"super" : "FFIExternalUnion",
+	"traitcomposition" : "TGdkEvent",
+	"type" : "normal" }

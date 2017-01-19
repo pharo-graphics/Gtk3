@@ -1,0 +1,1 @@
+https://github.com/GNOME/glib/blob/master/gobject/gtype.h

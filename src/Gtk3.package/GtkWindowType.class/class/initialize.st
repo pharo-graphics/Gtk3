@@ -1,0 +1,3 @@
+enum declaration
+initialize
+	self initializeEnumeration

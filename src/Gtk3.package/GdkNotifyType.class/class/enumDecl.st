@@ -1,0 +1,14 @@
+enum declaration
+enumDecl
+	"
+	self rebuildEnumAccessors
+	"
+
+	^ #(
+  GDK_NOTIFY_ANCESTOR	 0
+  GDK_NOTIFY_VIRTUAL 1
+  GDK_NOTIFY_INFERIOR	2
+  GDK_NOTIFY_NONLINEAR 3
+  GDK_NOTIFY_NONLINEAR_VIRTUAL 4
+  GDK_NOTIFY_UNKNOWN 5
+)

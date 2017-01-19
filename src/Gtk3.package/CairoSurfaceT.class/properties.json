@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-Cairo",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TGtkLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CairoSurfaceT",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalObject",
+	"traitcomposition" : "TGtkLibrary",
+	"type" : "normal" }

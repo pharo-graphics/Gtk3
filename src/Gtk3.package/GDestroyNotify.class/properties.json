@@ -1,0 +1,14 @@
+{
+	"category" : "Gtk3-GLib",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:34",
+	"instvars" : [
+		 ],
+	"name" : "GDestroyNotify",
+	"pools" : [
+		 ],
+	"super" : "FFICallback",
+	"type" : "normal" }

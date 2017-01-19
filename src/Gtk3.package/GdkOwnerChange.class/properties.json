@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GDK_OWNER_CHANGE_CLOSE",
+		"GDK_OWNER_CHANGE_DESTROY",
+		"GDK_OWNER_CHANGE_NEW_OWNER" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:02",
+	"instvars" : [
+		 ],
+	"name" : "GdkOwnerChange",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

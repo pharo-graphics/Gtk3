@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"G_APPLICATION_CAN_OVERRIDE_APP_ID" : "GlennCavarle 12/26/2016 20:55",
+		"G_APPLICATION_FLAGS_NONE" : "GlennCavarle 12/26/2016 20:55",
+		"G_APPLICATION_HANDLES_COMMAND_LINE" : "GlennCavarle 12/26/2016 20:55",
+		"G_APPLICATION_HANDLES_OPEN" : "GlennCavarle 12/26/2016 20:55",
+		"G_APPLICATION_IS_LAUNCHER" : "GlennCavarle 12/26/2016 20:55",
+		"G_APPLICATION_IS_SERVICE" : "GlennCavarle 12/26/2016 20:55",
+		"G_APPLICATION_NON_UNIQUE" : "GlennCavarle 12/26/2016 20:55",
+		"G_APPLICATION_SEND_ENVIRONMENT" : "GlennCavarle 12/26/2016 20:55",
+		"enumDecl" : "GlennCavarle 12/26/2016 20:40",
+		"initialize" : "GlennCavarle 12/26/2016 20:27" },
+	"instance" : {
+		 } }

@@ -1,0 +1,19 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GDK_NOTIFY_ANCESTOR",
+		"GDK_NOTIFY_INFERIOR",
+		"GDK_NOTIFY_NONLINEAR",
+		"GDK_NOTIFY_NONLINEAR_VIRTUAL",
+		"GDK_NOTIFY_UNKNOWN",
+		"GDK_NOTIFY_VIRTUAL" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:02",
+	"instvars" : [
+		 ],
+	"name" : "GdkNotifyType",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

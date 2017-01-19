@@ -1,0 +1,14 @@
+{
+	"category" : "Gtk3-Gtk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:02",
+	"instvars" : [
+		 ],
+	"name" : "GtkApplication",
+	"pools" : [
+		 ],
+	"super" : "GApplication",
+	"type" : "normal" }

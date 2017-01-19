@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-GLib",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TGtkLibrary classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:01",
+	"instvars" : [
+		 ],
+	"name" : "GApplication",
+	"pools" : [
+		"GTypes" ],
+	"super" : "FFIExternalObject",
+	"traitcomposition" : "TGtkLibrary",
+	"type" : "normal" }

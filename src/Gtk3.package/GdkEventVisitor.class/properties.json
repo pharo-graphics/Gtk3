@@ -1,0 +1,14 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GdkEventVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

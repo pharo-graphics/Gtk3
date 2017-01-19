@@ -1,0 +1,16 @@
+{
+	"category" : "Gtk3-Gdk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GDK_SETTING_ACTION_CHANGED",
+		"GDK_SETTING_ACTION_DELETED",
+		"GDK_SETTING_ACTION_NEW" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 16:04",
+	"instvars" : [
+		 ],
+	"name" : "GdkSettingAction",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalEnumeration",
+	"type" : "normal" }

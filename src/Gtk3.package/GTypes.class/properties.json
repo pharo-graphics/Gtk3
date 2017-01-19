@@ -1,0 +1,26 @@
+{
+	"category" : "Gtk3-GLib",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Gboolean",
+		"Gchar",
+		"Gdouble",
+		"Gint",
+		"Gint16",
+		"Gint32",
+		"Gint8",
+		"Gshort",
+		"Guchar",
+		"Guint",
+		"Guint16",
+		"Guint32",
+		"Guint8" ],
+	"commentStamp" : "GlennCavarle 12/27/2016 15:43",
+	"instvars" : [
+		 ],
+	"name" : "GTypes",
+	"pools" : [
+		 ],
+	"super" : "SharedPool",
+	"type" : "normal" }
