@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"ffiLibraryName" : "" },
-	"instance" : {
-		"ffiLibraryName" : "",
-		"primDestroy" : "GlennCavarle 12/29/2016 21:13",
-		"primPaint" : "GlennCavarle 12/29/2016 21:17",
-		"primSetOperator:" : "GlennCavarle 12/29/2016 21:19",
-		"primSetSourceSurface:x:y:" : "GlennCavarle 12/29/2016 21:18" } }
